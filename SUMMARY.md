@@ -10,14 +10,14 @@
 * Architecture
 
 ## Components
-* [Components Overview](overview.md)
+* [Components Overview](components-overview.md)
 * CoreEmitter
     * HTTPHandler
 * AccountEmitter
 * DBEmitter
 
 ## Hooks
-* [Overview](overview.md)
+* [Hooks Overview](hooks-overview.md)
 * [AccountHooks](accounthooks.md)
 * DBHooks
 * APIHooks
