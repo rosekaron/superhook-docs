@@ -1,16 +1,14 @@
 # Summary
 
-## Introduction
-* [Preface](README.md)
+* [Introduction](README.md)
+
+## Platform
 * [Language and Tools](technologies.md)
 * [Powered By](powered-by.md)
     * [PouchDB](pouchdb.md)
     * [SuperLogin](superlogin.md)
     * [Microcule](microcule.md)
 * [Architecture](architecture.md)
-
-## Platform
-
 
 ## Components
 * [Components Overview](components-overview.md)
