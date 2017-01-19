@@ -11,18 +11,18 @@
     * [Microcule](microcule.md)
 * [Architecture](architecture.md)
     * [Architecture Overview](architecture-overview.md)
-    * Security
+    * [Security](architecture-security.md)
     
 ## Components
 * [Components Overview](components-overview.md)
-* [CoreEmitter](coreemitter.md)
-    * [HTTPHandler](httphandler.md)
-* [AccountEmitter](accountemitter.md)
-* [DBEmitter](dbemitter.md)
+* [CoreEmitter](emitter-core.md)
+    * [HTTPHandler](handler-http.md)
+* [AccountEmitter](emitter-account.md)
+* [DBEmitter](emitter-db.md)
 
 ## Hooks
 * [Hooks Overview](hooks-overview.md)
-* [AccountHooks](accounthooks.md)
-* [DBHooks](dbhooks.md)
-* [APIHooks](apihooks.md)
+* [AccountHooks](hooks-account.md)
+* [DBHooks](hooks-db.md)
+* [APIHooks](hooks-api.md)
 
