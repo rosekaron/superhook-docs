@@ -1,5 +1,4 @@
 # DB Emitter
 
-DB emitter events are handled by [DB Hooks](hooks-db.md)
-
+DB emitter events are handled by [DB hooks](hooks-db.md)
 
