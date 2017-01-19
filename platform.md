@@ -6,13 +6,19 @@ Now that we have that out of the way let's look at some concrete features that d
 
 #### Secure by default
 
-Offline first
+#### Offline first
 
-Real-time
+#### Real-time
 
-Extensible
+#### Progressive
 
-Performant
+#### Extensible
 
-Scalable
+#### Performant
+
+#### Scalable
+
+#### Rapid deliveries
+
+
 
