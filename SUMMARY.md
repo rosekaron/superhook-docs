@@ -18,12 +18,15 @@
 
 ## Components
 * [Overview](components.md)
-* Core
-    * [Core Emitter](emitter-core.md)
+* [Core](component-core.md)
+    * [Emitter](emitter-core.md)
         * [HTTP Handler](handler-http.md)
-* [Account Emitter](emitter-account.md)
-* [DB Emitter](emitter-db.md)
-* [State Emitter](emitter-state.md)
+* [Account Component](component-account.md)
+    * [Emitter](emitter-account.md)
+* [DB Component](component-db.md)
+    * [Emitter](emitter-db.md)
+* [State Component](component-state.md)
+    * [Emitter](emitter-state.md)
 
 ## Hooks
 * [Overview](hooks.md)
