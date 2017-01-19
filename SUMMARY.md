@@ -10,6 +10,7 @@
     * [PouchDB](pouchdb.md)
     * [SuperLogin](superlogin.md)
     * [Microcule](microcule.md)
+    * [Machina.js](machina-js.md)
 * [Architecture](architecture.md)
 * [Security](security.md)
 * [Apps](apps.md)
