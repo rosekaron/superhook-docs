@@ -13,6 +13,7 @@
 * [Architecture](architecture.md)
 * [Security](security.md)
 * [Apps](apps.md)
+* Deployment
 
 ## Components
 * [Overview](components.md)
