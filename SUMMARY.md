@@ -13,14 +13,14 @@
 * [Security](security.md)
 
 ## Components
-* [Components Overview](components-overview.md)
+* [Overview](components.md)
 * [CoreEmitter](emitter-core.md)
     * [HTTPHandler](handler-http.md)
 * [AccountEmitter](emitter-account.md)
 * [DBEmitter](emitter-db.md)
 
 ## Hooks
-* [Hooks Overview](hooks-overview.md)
+* [Overview](hooks.md)
 * [AccountHooks](hooks-account.md)
 * [DBHooks](hooks-db.md)
 * [APIHooks](hooks-api.md)
