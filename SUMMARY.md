@@ -13,7 +13,7 @@
 * [Architecture](architecture.md)
 * [Security](security.md)
 * [Apps](apps.md)
-* Deployment
+* [Deployment](deployment.md)
 
 ## Components
 * [Overview](components.md)
@@ -21,10 +21,12 @@
     * [HTTP Handler](handler-http.md)
 * [Account Emitter](emitter-account.md)
 * [DB Emitter](emitter-db.md)
+* [State Emitter](emitter-state.md)
 
 ## Hooks
 * [Overview](hooks.md)
 * [Account Hooks](hooks-account.md)
 * [DB Hooks](hooks-db.md)
 * [API Hooks](hooks-api.md)
+* [State Hooks](hooks-state.md)
 
