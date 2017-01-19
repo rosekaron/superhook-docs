@@ -1,6 +1,6 @@
-# State Component
+# StateComponent
 
-The State Component manages interaction between [Machina.js](machina-js.md) and the platform.
+The State component manages interaction between [Machina.js](machina-js.md) and the platform.
 
 
 
