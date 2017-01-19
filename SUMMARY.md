@@ -9,6 +9,9 @@
     * [Microcule](microcule.md)
 * [Architecture](architecture.md)
 
+## Platform
+
+
 ## Components
 * [Components Overview](components-overview.md)
 * [CoreEmitter](coreemitter.md)
@@ -21,6 +24,4 @@
 * [AccountHooks](accounthooks.md)
 * [DBHooks](dbhooks.md)
 * [APIHooks](apihooks.md)
-
-## Platform
 
