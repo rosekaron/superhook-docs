@@ -1,3 +1,4 @@
 # Account Emitter
 
-Account emitter events are handled by [Account Hooks](hooks-account.md)
+Account emitter events are handled by [Account hooks](hooks-account.md)
+
