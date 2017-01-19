@@ -1,4 +1,5 @@
 # Summary
+
 ## Introduction
 * [Preface](README.md)
 
@@ -9,7 +10,9 @@
     * [SuperLogin](superlogin.md)
     * [Microcule](microcule.md)
 * [Architecture](architecture.md)
-
+    * [Architecture Overview](architecture-overview.md)
+    * Security
+    
 ## Components
 * [Components Overview](components-overview.md)
 * [CoreEmitter](coreemitter.md)
