@@ -21,11 +21,11 @@
 * [Core](component-core.md)
     * [Emitter](emitter-core.md)
         * [HTTP Handler](handler-http.md)
-* [Account Component](component-account.md)
+* [Account](component-account.md)
     * [Emitter](emitter-account.md)
-* [DB Component](component-db.md)
+* [DB](component-db.md)
     * [Emitter](emitter-db.md)
-* [State Component](component-state.md)
+* [State](component-state.md)
     * [Emitter](emitter-state.md)
 
 ## Hooks
