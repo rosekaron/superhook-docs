@@ -1,4 +1,3 @@
 # State Emitter
 
-
-
+The StateEmitter
