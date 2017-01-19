@@ -10,9 +10,8 @@
     * [SuperLogin](superlogin.md)
     * [Microcule](microcule.md)
 * [Architecture](architecture.md)
-    * [Architecture Overview](architecture-overview.md)
-    * [Security](architecture-security.md)
-    
+* [Security](security.md)
+
 ## Components
 * [Components Overview](components-overview.md)
 * [CoreEmitter](emitter-core.md)
