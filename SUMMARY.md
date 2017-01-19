@@ -2,7 +2,7 @@
 
 ## Introduction
 * [Preface](README.md)
-* [Integrated Automation Platform](platform.md)
+* [10K Overview](platform.md)
 
 ## Platform
 * [Languages, Tools and Technologies](technologies.md)
