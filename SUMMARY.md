@@ -4,7 +4,7 @@
 * [Preface](README.md)
 
 ## Platform
-* [Language and Tools](technologies.md)
+* [Language, Tools and Technologies](technologies.md)
 * [Powered By](powered-by.md)
     * [PouchDB](pouchdb.md)
     * [SuperLogin](superlogin.md)
