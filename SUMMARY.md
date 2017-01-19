@@ -30,8 +30,8 @@
 
 ## Hooks
 * [Overview](hooks.md)
-* [Account Hooks](hooks-account.md)
-* [DB Hooks](hooks-db.md)
-* [API Hooks](hooks-api.md)
-* [State Hooks](hooks-state.md)
+* [Account](hooks-account.md)
+* [DB](hooks-db.md)
+* [State](hooks-state.md)
+* [API](hooks-api.md)
 
