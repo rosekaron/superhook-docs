@@ -15,7 +15,7 @@
 
 ## Components
 * [Overview](components.md)
-* [ Core Emitter](emitter-core.md)
+* [Core Emitter](emitter-core.md)
     * [HTTP Handler](handler-http.md)
 * [Account Emitter](emitter-account.md)
 * [DB Emitter](emitter-db.md)
