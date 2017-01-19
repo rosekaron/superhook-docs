@@ -19,7 +19,7 @@
 ## Components
 * [Overview](components.md)
 * [Core](component-core.md)
-    * [Emitter](emitter-core.md)
+    * [Emitter](emitter.md)
     * [HTTP Handler](handler-http.md)
 * [Account](component-account.md)
     * [Emitter](emitter-account.md)
