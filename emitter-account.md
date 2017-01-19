@@ -1,3 +1,3 @@
-# AccountEmitter
+# Account Emitter
 
-AccountEmitter emits events are handled by [State Hooks](hooks-state.db)
+Account emitter emits events are handled by [State Hooks](hooks-state.db)
