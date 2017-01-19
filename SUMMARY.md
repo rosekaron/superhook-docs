@@ -12,7 +12,7 @@
 ## Components
 * [Components Overview](components-overview.md)
 * [CoreEmitter](coreemitter.md)
-    * HTTPHandler
+    * [HTTPHandler](httphandler.md)
 * [AccountEmitter](accountemitter.md)
 * [DBEmitter](dbemitter.md)
 
