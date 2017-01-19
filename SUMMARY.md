@@ -7,18 +7,18 @@
     * [PouchDB](pouchdb.md)
     * [SuperLogin](superlogin.md)
     * [Microcule](microcule.md)
-* Architecture
+* [Architecture](architecture.md)
 
 ## Components
 * [Components Overview](components-overview.md)
-* CoreEmitter
+* [CoreEmitter](coreemitter.md)
     * HTTPHandler
-* AccountEmitter
-* DBEmitter
+* [AccountEmitter](accountemitter.md)
+* [DBEmitter](dbemitter.md)
 
 ## Hooks
 * [Hooks Overview](hooks-overview.md)
 * [AccountHooks](accounthooks.md)
-* DBHooks
-* APIHooks
+* [DBHooks](dbhooks.md)
+* [APIHooks](apihooks.md)
 
