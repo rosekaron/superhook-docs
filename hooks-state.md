@@ -1,5 +1,5 @@
 # State Hooks
 
-State Hooks handle events from the [StateEmitter](emitter-state.md).
+State Hooks handle events from the [State emitter](emitter-state.md).
 
 
