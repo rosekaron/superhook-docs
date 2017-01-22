@@ -12,11 +12,7 @@ SuperHook is built on top of [SuperLogin](/superlogin.md), a NodeJS/Express user
 
 SuperLogin leverages [Passport](http://passportjs.org/) together with [PouchDB](https://pouchdb.com), both with a long track record of security and performance in the OSS community to provide an user-centered end-to-end account and security management solution based on the industry standard [OAuth2](https://oauth.net/2/) protocol.
 
-#### Offline firstS
-
-#### Real-time
-
-#### Progressive
+#### Ideal for Offline-first and Real-time PWA's
 
 #### Extensible
 
