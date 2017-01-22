@@ -6,7 +6,13 @@ Now that we have that out of the way let's look at some concrete features that d
 
 #### Secure by default
 
-#### Offline first
+SuperHook is built on top of SuperLogin, a NodeJS/Express user authentication solution centered on providing the best of breed practices and technologies under on simple and secure roof. From [their GitHub page](https://github.com/colinskow/superlogin):
+
+> User authentication is often the hardest part of building any web app, especially if you want to integrate multiple providers. Now all the tough work has been done for you so you can relax and create with less boilerplate!
+
+SuperLogin leverages [Passport](http://passportjs.org/) with [PouchDB](https://pouchdb.com), both with a long track record of security and performance in the OSS community to provide an end-to-end to end solution for user-centered security based on the industry standard [OAuth2](https://oauth.net/2/) protocol.
+
+#### Offline firstS
 
 #### Real-time
 
